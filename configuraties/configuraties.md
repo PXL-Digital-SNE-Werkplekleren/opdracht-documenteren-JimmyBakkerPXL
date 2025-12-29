@@ -1,8 +1,7 @@
 Hier staan de configuraties van de apparaten.
 
 <details>
-
-<summary class="text-purple large-text">Technova_Router</summary>
+<summary class="text-purple giant-text">Technova_Router</summary>
 
 Hostname	:	Technova_Router
 secret pw	:	tnadmin01

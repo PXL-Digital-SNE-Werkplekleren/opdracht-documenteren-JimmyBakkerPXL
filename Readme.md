@@ -137,5 +137,5 @@ Einde
 ---
 
 <div class="nav-buttons">
-  <a href="#/configuraties" class="next">Volgende → Configuraties</a>
+  <a href="#/configuraties/configuraties.md" class="next">Volgende → Configuraties</a>
 </div>

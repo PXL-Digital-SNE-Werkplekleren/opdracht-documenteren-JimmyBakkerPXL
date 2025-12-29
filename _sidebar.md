@@ -1,4 +1,4 @@
 
 * [Home](#/)
-* [Introductie](#/Readme)
-* [Configuration](#/configuraties)
+* [Introductie](#/Readme.md)
+* [Configuration](#/configuraties/configuraties.md)
