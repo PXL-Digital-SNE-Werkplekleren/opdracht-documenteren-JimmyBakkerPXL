@@ -1,4 +1,4 @@
-Hier staan de configuraties van de apparaten.
+Hier staan de configuraties van de gevraagde apparaten. De configuratie van de router en de configuratie van 1 Server.
 
 <details>
 <summary class="text-purple giant-text">Technova_Router</summary>
