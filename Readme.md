@@ -254,7 +254,3 @@ transport input ssh
 !
 !
 end
-
----
-
-**Volgende →** [Configuraties](#/configuraties)
