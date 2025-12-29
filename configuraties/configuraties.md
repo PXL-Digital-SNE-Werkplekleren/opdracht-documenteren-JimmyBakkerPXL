@@ -121,3 +121,7 @@ login
 !			
 end
 </details>
+
+<div class="nav-buttons">
+  <a href="#/README.md" class="previous">Vorige → Home</a>
+</div>
