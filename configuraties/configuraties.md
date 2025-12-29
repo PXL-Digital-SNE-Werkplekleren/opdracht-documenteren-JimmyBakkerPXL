@@ -1,0 +1,1 @@
+Hier staan de configuraties van de apparaten
