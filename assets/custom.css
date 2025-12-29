@@ -115,3 +115,8 @@ details summary {
         width: 100%;
     }
 }
+
+/* Hide Docsify plugin's generated "Next" button (keep the manual button in README) */
+.docsify-pagination-container .pagination-item--next {
+    display: none !important;
+}
