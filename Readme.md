@@ -1,6 +1,4 @@
-# TECHNOVA REPOSITORY
-
-<span class="text-purple large-text">Technova Repository</span>
+<span class="text-purple giant-text">Technova Repository</span>
 
 Op deze pagina staan de 2 configuraties die wij dienden te uploaden. 
 De .cfg files zijn op deze pagina geupload en zullen kadergewijs worden weergegeven.
