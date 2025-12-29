@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
-* [Home](/)
-* [Introductie](./Intro/Readme.md)
-* [Configuration](./Intro/configuration.md)
+
+* [Home](./)
+* [Introductie](./Readme.md)
+* [Configuration](./configuraties/configuraties.md)
