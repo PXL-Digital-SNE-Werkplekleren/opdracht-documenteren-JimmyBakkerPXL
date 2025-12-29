@@ -1,9 +1,6 @@
 <span class="text-purple giant-text">Technova Repository</span>
 
-Op deze pagina staan de 2 configuraties die wij dienden te uploaden. 
-De .cfg files zijn op deze pagina geupload en zullen kadergewijs worden weergegeven.
-
-			
+Dit is de Github pagina van Technova. De .cfg files zijn op de volgende pagina geupload en zullen kadergewijs worden weergegeven zoals gevraagd werd in de opdracht.			
 
 **********************************************************************
 
@@ -136,3 +133,9 @@ transport input ssh
 end
 
 Einde
+
+---
+
+<div class="nav-buttons">
+  <a href="#/configuraties" class="next">Volgende → Configuraties</a>
+</div>
