@@ -126,11 +126,11 @@ end
 <summary class="text-purple giant-text">S1_Developers</summary>
 Configuratie Switch 1
 
-Hostname	:	S1_Developers	
-secret pw	:	tnadmin		
-enablepw	:	novaad		
-virtual terminal password	:	daavon		
-username	:	sshuser		
+Hostname	:	S1_Developers
+secret pw	:	tnadmin
+enablepw	:	novaad
+virtual terminal password	:	daavon
+username	:	sshuser
  				
 Domein naam	:	TechNova.com	
 				
