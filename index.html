@@ -13,13 +13,22 @@
   <link rel="stylesheet" href="assets/fontawsome/solid.css" />
   <link rel="stylesheet" href="assets/custom.css" />
   <script src="assets/fontawsome/40e0e32ae3.js" crossorigin="anonymous"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YYB5F2F2JP"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    (function() {
+      // Only load Google Analytics on non-local HTTP(S) hosts
+      if (location.protocol.indexOf('http') === 0 && !/^(localhost|127\.0\.0\.1)$/.test(location.hostname)) {
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYB5F2F2JP';
+        document.head.appendChild(s);
 
-    gtag('config', 'G-YYB5F2F2JP');
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        window.gtag = window.gtag || gtag;
+        gtag('js', new Date());
+        gtag('config', 'G-YYB5F2F2JP');
+      }
+    })();
   </script>
 </head>
 <body>
